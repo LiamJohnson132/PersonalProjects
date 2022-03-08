@@ -1,0 +1,5 @@
+C:\Users\liamj\OneDrive\PersonalProjects\AbilityScoreDiceRoller\AbilityScoreDiceRoller.Models\bin\Release\AbilityScoreDiceRoller.Models.dll
+C:\Users\liamj\OneDrive\PersonalProjects\AbilityScoreDiceRoller\AbilityScoreDiceRoller.Models\bin\Release\AbilityScoreDiceRoller.Models.pdb
+C:\Users\liamj\OneDrive\PersonalProjects\AbilityScoreDiceRoller\AbilityScoreDiceRoller.Models\obj\Release\AbilityScoreDiceRoller.Models.csproj.CoreCompileInputs.cache
+C:\Users\liamj\OneDrive\PersonalProjects\AbilityScoreDiceRoller\AbilityScoreDiceRoller.Models\obj\Release\AbilityScoreDiceRoller.Models.dll
+C:\Users\liamj\OneDrive\PersonalProjects\AbilityScoreDiceRoller\AbilityScoreDiceRoller.Models\obj\Release\AbilityScoreDiceRoller.Models.pdb

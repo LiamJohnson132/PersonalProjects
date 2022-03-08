@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7472991b-57d1-4186-9e6d-33bce6b31910": {
+      "ProjectGuid": "7472991b-57d1-4186-9e6d-33bce6b31910",
+      "DisplayName": "AbilityScoreDiceRoller",
+      "ColorIndex": 0
+    },
+    "bebd511b-a92b-4465-9b49-7001d0647c5f": {
+      "ProjectGuid": "bebd511b-a92b-4465-9b49-7001d0647c5f",
+      "DisplayName": "AbilityScoreDiceRoller.UI",
+      "ColorIndex": 1
+    },
+    "68c16c0d-0d74-439f-8877-33356528b1bc": {
+      "ProjectGuid": "68c16c0d-0d74-439f-8877-33356528b1bc",
+      "DisplayName": "AbilityScoreDiceRoller.BLL",
+      "ColorIndex": 2
+    },
+    "53d1d323-2f41-41c2-a517-fe89b15404f1": {
+      "ProjectGuid": "53d1d323-2f41-41c2-a517-fe89b15404f1",
+      "DisplayName": "AbilityScoreDiceRoller.Models",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "b5dff50f-10d5-4ddd-98b2-262b77616766": {
+      "ProjectGuid": "b5dff50f-10d5-4ddd-98b2-262b77616766",
+      "DisplayName": "AbilityScoreDiceRoller.Models",
+      "ColorIndex": 4
+    },
+    "da9e26b0-4485-4473-a0e4-a55f888182b4": {
+      "ProjectGuid": "da9e26b0-4485-4473-a0e4-a55f888182b4",
+      "DisplayName": "AbilityScoreDiceRoller.Data",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

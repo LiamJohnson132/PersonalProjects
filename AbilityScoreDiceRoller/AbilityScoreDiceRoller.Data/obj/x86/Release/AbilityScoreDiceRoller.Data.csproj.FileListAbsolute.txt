@@ -1,0 +1,9 @@
+C:\Users\liamj\OneDrive\PersonalProjects\AbilityScoreDiceRoller\AbilityScoreDiceRoller.Data\bin\x86\Release\AbilityScoreDiceRoller.Data.dll
+C:\Users\liamj\OneDrive\PersonalProjects\AbilityScoreDiceRoller\AbilityScoreDiceRoller.Data\bin\x86\Release\AbilityScoreDiceRoller.Data.pdb
+C:\Users\liamj\OneDrive\PersonalProjects\AbilityScoreDiceRoller\AbilityScoreDiceRoller.Data\bin\x86\Release\AbilityScoreDiceRoller.Models.dll
+C:\Users\liamj\OneDrive\PersonalProjects\AbilityScoreDiceRoller\AbilityScoreDiceRoller.Data\bin\x86\Release\AbilityScoreDiceRoller.Models.pdb
+C:\Users\liamj\OneDrive\PersonalProjects\AbilityScoreDiceRoller\AbilityScoreDiceRoller.Data\obj\x86\Release\AbilityScoreDiceRoller.Data.csproj.AssemblyReference.cache
+C:\Users\liamj\OneDrive\PersonalProjects\AbilityScoreDiceRoller\AbilityScoreDiceRoller.Data\obj\x86\Release\AbilityScoreDiceRoller.Data.csproj.CoreCompileInputs.cache
+C:\Users\liamj\OneDrive\PersonalProjects\AbilityScoreDiceRoller\AbilityScoreDiceRoller.Data\obj\x86\Release\AbilityScoreDiceRoller.Data.csproj.CopyComplete
+C:\Users\liamj\OneDrive\PersonalProjects\AbilityScoreDiceRoller\AbilityScoreDiceRoller.Data\obj\x86\Release\AbilityScoreDiceRoller.Data.dll
+C:\Users\liamj\OneDrive\PersonalProjects\AbilityScoreDiceRoller\AbilityScoreDiceRoller.Data\obj\x86\Release\AbilityScoreDiceRoller.Data.pdb

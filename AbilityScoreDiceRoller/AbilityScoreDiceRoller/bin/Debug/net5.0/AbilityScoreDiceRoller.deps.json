@@ -1,0 +1,78 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "AbilityScoreDiceRoller/1.0.0": {
+        "dependencies": {
+          "AbilityScoreDiceRoller.BLL": "1.0.0"
+        },
+        "runtime": {
+          "AbilityScoreDiceRoller.dll": {}
+        }
+      },
+      "AbilityScoreDiceRoller.BLL/1.0.0": {
+        "dependencies": {
+          "AbilityScoreDiceRoller.Data": "1.0.0",
+          "AbilityScoreDiceRoller.Models": "1.0.0",
+          "AbilityScoreDiceRoller.UI": "1.0.0"
+        },
+        "runtime": {
+          "AbilityScoreDiceRoller.BLL.dll": {}
+        }
+      },
+      "AbilityScoreDiceRoller.Data/1.0.0": {
+        "dependencies": {
+          "AbilityScoreDiceRoller.Models": "1.0.0"
+        },
+        "runtime": {
+          "AbilityScoreDiceRoller.Data.dll": {}
+        }
+      },
+      "AbilityScoreDiceRoller.Models/1.0.0": {
+        "runtime": {
+          "AbilityScoreDiceRoller.Models.dll": {}
+        }
+      },
+      "AbilityScoreDiceRoller.UI/1.0.0": {
+        "dependencies": {
+          "AbilityScoreDiceRoller.Data": "1.0.0",
+          "AbilityScoreDiceRoller.Models": "1.0.0"
+        },
+        "runtime": {
+          "AbilityScoreDiceRoller.UI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AbilityScoreDiceRoller/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AbilityScoreDiceRoller.BLL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AbilityScoreDiceRoller.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AbilityScoreDiceRoller.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AbilityScoreDiceRoller.UI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
