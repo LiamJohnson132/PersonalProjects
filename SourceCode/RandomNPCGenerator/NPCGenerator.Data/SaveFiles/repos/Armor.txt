@@ -1,0 +1,14 @@
+Id|ArmorType|Name|ArmorBonus|MaxDexBonus|ArmorCheckPenalty|ArcaneSpellFailure
+0|None|Unarmored|0|50|0|0
+1|Light|Padded|1|8|0|5
+2|Light|Leather|2|6|0|10
+3|Light|Studded Leather|3|5|-1|15
+4|Light|Chain Shirt|4|4|-2|20
+5|Medium|Hide|3|4|-3|20
+6|Medium|Scale Mail|4|3|-4|25
+7|Medium|Chainmail|5|2|-5|30
+8|Medium|Breastplate|5|3|-4|25
+9|Heavy|Splint Mail|6|0|-7|40
+10|Heavy|Banded Mail|6|1|-6|35
+11|Heavy|Half-Plate|7|0|-7|40
+12|Heavy|Full Plate|8|1|-6|35

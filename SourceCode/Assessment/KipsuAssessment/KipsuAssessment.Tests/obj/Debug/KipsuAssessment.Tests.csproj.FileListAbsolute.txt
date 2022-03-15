@@ -1,0 +1,76 @@
+C:\Users\liamj\OneDrive\Desktop\KipsuAssessment - Remake\KipsuAssessment\KipsuAssessment.Tests\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\liamj\OneDrive\Desktop\KipsuAssessment - Remake\KipsuAssessment\KipsuAssessment.Tests\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\liamj\OneDrive\Desktop\KipsuAssessment - Remake\KipsuAssessment\KipsuAssessment.Tests\bin\Debug\nunit.engine.dll
+C:\Users\liamj\OneDrive\Desktop\KipsuAssessment - Remake\KipsuAssessment\KipsuAssessment.Tests\bin\Debug\nunit.engine.api.dll
+C:\Users\liamj\OneDrive\Desktop\KipsuAssessment - Remake\KipsuAssessment\KipsuAssessment.Tests\bin\Debug\nunit.engine.core.dll
+C:\Users\liamj\OneDrive\Desktop\KipsuAssessment - Remake\KipsuAssessment\KipsuAssessment.Tests\bin\Debug\testcentric.engine.metadata.dll
+C:\Users\liamj\OneDrive\Desktop\KipsuAssessment - Remake\KipsuAssessment\KipsuAssessment.Tests\bin\Debug\KipsuAssessment.Tests.dll
+C:\Users\liamj\OneDrive\Desktop\KipsuAssessment - Remake\KipsuAssessment\KipsuAssessment.Tests\bin\Debug\KipsuAssessment.Tests.pdb
+C:\Users\liamj\OneDrive\Desktop\KipsuAssessment - Remake\KipsuAssessment\KipsuAssessment.Tests\bin\Debug\KipsuAssessment.Data.dll
+C:\Users\liamj\OneDrive\Desktop\KipsuAssessment - Remake\KipsuAssessment\KipsuAssessment.Tests\bin\Debug\KipsuAssessment.Models.dll
+C:\Users\liamj\OneDrive\Desktop\KipsuAssessment - Remake\KipsuAssessment\KipsuAssessment.Tests\bin\Debug\nunit.framework.dll
+C:\Users\liamj\OneDrive\Desktop\KipsuAssessment - Remake\KipsuAssessment\KipsuAssessment.Tests\bin\Debug\System.Text.Json.dll
+C:\Users\liamj\OneDrive\Desktop\KipsuAssessment - Remake\KipsuAssessment\KipsuAssessment.Tests\bin\Debug\System.Memory.dll
+C:\Users\liamj\OneDrive\Desktop\KipsuAssessment - Remake\KipsuAssessment\KipsuAssessment.Tests\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\liamj\OneDrive\Desktop\KipsuAssessment - Remake\KipsuAssessment\KipsuAssessment.Tests\bin\Debug\System.ValueTuple.dll
+C:\Users\liamj\OneDrive\Desktop\KipsuAssessment - Remake\KipsuAssessment\KipsuAssessment.Tests\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\liamj\OneDrive\Desktop\KipsuAssessment - Remake\KipsuAssessment\KipsuAssessment.Tests\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\liamj\OneDrive\Desktop\KipsuAssessment - Remake\KipsuAssessment\KipsuAssessment.Tests\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\liamj\OneDrive\Desktop\KipsuAssessment - Remake\KipsuAssessment\KipsuAssessment.Tests\bin\Debug\System.Buffers.dll
+C:\Users\liamj\OneDrive\Desktop\KipsuAssessment - Remake\KipsuAssessment\KipsuAssessment.Tests\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\liamj\OneDrive\Desktop\KipsuAssessment - Remake\KipsuAssessment\KipsuAssessment.Tests\bin\Debug\KipsuAssessment.Data.pdb
+C:\Users\liamj\OneDrive\Desktop\KipsuAssessment - Remake\KipsuAssessment\KipsuAssessment.Tests\bin\Debug\KipsuAssessment.Data.dll.config
+C:\Users\liamj\OneDrive\Desktop\KipsuAssessment - Remake\KipsuAssessment\KipsuAssessment.Tests\bin\Debug\KipsuAssessment.Models.pdb
+C:\Users\liamj\OneDrive\Desktop\KipsuAssessment - Remake\KipsuAssessment\KipsuAssessment.Tests\bin\Debug\nunit.framework.xml
+C:\Users\liamj\OneDrive\Desktop\KipsuAssessment - Remake\KipsuAssessment\KipsuAssessment.Tests\bin\Debug\System.Text.Json.xml
+C:\Users\liamj\OneDrive\Desktop\KipsuAssessment - Remake\KipsuAssessment\KipsuAssessment.Tests\bin\Debug\System.Memory.xml
+C:\Users\liamj\OneDrive\Desktop\KipsuAssessment - Remake\KipsuAssessment\KipsuAssessment.Tests\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\liamj\OneDrive\Desktop\KipsuAssessment - Remake\KipsuAssessment\KipsuAssessment.Tests\bin\Debug\System.ValueTuple.xml
+C:\Users\liamj\OneDrive\Desktop\KipsuAssessment - Remake\KipsuAssessment\KipsuAssessment.Tests\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\liamj\OneDrive\Desktop\KipsuAssessment - Remake\KipsuAssessment\KipsuAssessment.Tests\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\liamj\OneDrive\Desktop\KipsuAssessment - Remake\KipsuAssessment\KipsuAssessment.Tests\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\liamj\OneDrive\Desktop\KipsuAssessment - Remake\KipsuAssessment\KipsuAssessment.Tests\bin\Debug\System.Buffers.xml
+C:\Users\liamj\OneDrive\Desktop\KipsuAssessment - Remake\KipsuAssessment\KipsuAssessment.Tests\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\liamj\OneDrive\Desktop\KipsuAssessment - Remake\KipsuAssessment\KipsuAssessment.Tests\obj\Debug\KipsuAssessment.Tests.csproj.AssemblyReference.cache
+C:\Users\liamj\OneDrive\Desktop\KipsuAssessment - Remake\KipsuAssessment\KipsuAssessment.Tests\obj\Debug\KipsuAssessment.Tests.csproj.CoreCompileInputs.cache
+C:\Users\liamj\OneDrive\Desktop\KipsuAssessment - Remake\KipsuAssessment\KipsuAssessment.Tests\obj\Debug\KipsuAssessment.Tests.csproj.CopyComplete
+C:\Users\liamj\OneDrive\Desktop\KipsuAssessment - Remake\KipsuAssessment\KipsuAssessment.Tests\obj\Debug\KipsuAssessment.Tests.dll
+C:\Users\liamj\OneDrive\Desktop\KipsuAssessment - Remake\KipsuAssessment\KipsuAssessment.Tests\obj\Debug\KipsuAssessment.Tests.pdb
+C:\Users\liamj\OneDrive\Desktop\KipsuAssessment\KipsuAssessment\KipsuAssessment.Tests\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\liamj\OneDrive\Desktop\KipsuAssessment\KipsuAssessment\KipsuAssessment.Tests\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\liamj\OneDrive\Desktop\KipsuAssessment\KipsuAssessment\KipsuAssessment.Tests\bin\Debug\nunit.engine.dll
+C:\Users\liamj\OneDrive\Desktop\KipsuAssessment\KipsuAssessment\KipsuAssessment.Tests\bin\Debug\nunit.engine.api.dll
+C:\Users\liamj\OneDrive\Desktop\KipsuAssessment\KipsuAssessment\KipsuAssessment.Tests\bin\Debug\nunit.engine.core.dll
+C:\Users\liamj\OneDrive\Desktop\KipsuAssessment\KipsuAssessment\KipsuAssessment.Tests\bin\Debug\testcentric.engine.metadata.dll
+C:\Users\liamj\OneDrive\Desktop\KipsuAssessment\KipsuAssessment\KipsuAssessment.Tests\bin\Debug\KipsuAssessment.Tests.dll
+C:\Users\liamj\OneDrive\Desktop\KipsuAssessment\KipsuAssessment\KipsuAssessment.Tests\bin\Debug\KipsuAssessment.Tests.pdb
+C:\Users\liamj\OneDrive\Desktop\KipsuAssessment\KipsuAssessment\KipsuAssessment.Tests\bin\Debug\KipsuAssessment.Data.dll
+C:\Users\liamj\OneDrive\Desktop\KipsuAssessment\KipsuAssessment\KipsuAssessment.Tests\bin\Debug\KipsuAssessment.Models.dll
+C:\Users\liamj\OneDrive\Desktop\KipsuAssessment\KipsuAssessment\KipsuAssessment.Tests\bin\Debug\nunit.framework.dll
+C:\Users\liamj\OneDrive\Desktop\KipsuAssessment\KipsuAssessment\KipsuAssessment.Tests\bin\Debug\System.Text.Json.dll
+C:\Users\liamj\OneDrive\Desktop\KipsuAssessment\KipsuAssessment\KipsuAssessment.Tests\bin\Debug\System.Memory.dll
+C:\Users\liamj\OneDrive\Desktop\KipsuAssessment\KipsuAssessment\KipsuAssessment.Tests\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\liamj\OneDrive\Desktop\KipsuAssessment\KipsuAssessment\KipsuAssessment.Tests\bin\Debug\System.ValueTuple.dll
+C:\Users\liamj\OneDrive\Desktop\KipsuAssessment\KipsuAssessment\KipsuAssessment.Tests\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\liamj\OneDrive\Desktop\KipsuAssessment\KipsuAssessment\KipsuAssessment.Tests\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\liamj\OneDrive\Desktop\KipsuAssessment\KipsuAssessment\KipsuAssessment.Tests\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\liamj\OneDrive\Desktop\KipsuAssessment\KipsuAssessment\KipsuAssessment.Tests\bin\Debug\System.Buffers.dll
+C:\Users\liamj\OneDrive\Desktop\KipsuAssessment\KipsuAssessment\KipsuAssessment.Tests\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\liamj\OneDrive\Desktop\KipsuAssessment\KipsuAssessment\KipsuAssessment.Tests\bin\Debug\KipsuAssessment.Data.pdb
+C:\Users\liamj\OneDrive\Desktop\KipsuAssessment\KipsuAssessment\KipsuAssessment.Tests\bin\Debug\KipsuAssessment.Data.dll.config
+C:\Users\liamj\OneDrive\Desktop\KipsuAssessment\KipsuAssessment\KipsuAssessment.Tests\bin\Debug\KipsuAssessment.Models.pdb
+C:\Users\liamj\OneDrive\Desktop\KipsuAssessment\KipsuAssessment\KipsuAssessment.Tests\bin\Debug\nunit.framework.xml
+C:\Users\liamj\OneDrive\Desktop\KipsuAssessment\KipsuAssessment\KipsuAssessment.Tests\bin\Debug\System.Text.Json.xml
+C:\Users\liamj\OneDrive\Desktop\KipsuAssessment\KipsuAssessment\KipsuAssessment.Tests\bin\Debug\System.Memory.xml
+C:\Users\liamj\OneDrive\Desktop\KipsuAssessment\KipsuAssessment\KipsuAssessment.Tests\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\liamj\OneDrive\Desktop\KipsuAssessment\KipsuAssessment\KipsuAssessment.Tests\bin\Debug\System.ValueTuple.xml
+C:\Users\liamj\OneDrive\Desktop\KipsuAssessment\KipsuAssessment\KipsuAssessment.Tests\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\liamj\OneDrive\Desktop\KipsuAssessment\KipsuAssessment\KipsuAssessment.Tests\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\liamj\OneDrive\Desktop\KipsuAssessment\KipsuAssessment\KipsuAssessment.Tests\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\liamj\OneDrive\Desktop\KipsuAssessment\KipsuAssessment\KipsuAssessment.Tests\bin\Debug\System.Buffers.xml
+C:\Users\liamj\OneDrive\Desktop\KipsuAssessment\KipsuAssessment\KipsuAssessment.Tests\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\liamj\OneDrive\Desktop\KipsuAssessment\KipsuAssessment\KipsuAssessment.Tests\obj\Debug\KipsuAssessment.Tests.csproj.AssemblyReference.cache
+C:\Users\liamj\OneDrive\Desktop\KipsuAssessment\KipsuAssessment\KipsuAssessment.Tests\obj\Debug\KipsuAssessment.Tests.csproj.CoreCompileInputs.cache
+C:\Users\liamj\OneDrive\Desktop\KipsuAssessment\KipsuAssessment\KipsuAssessment.Tests\obj\Debug\KipsuAssessment.Tests.csproj.CopyComplete
+C:\Users\liamj\OneDrive\Desktop\KipsuAssessment\KipsuAssessment\KipsuAssessment.Tests\obj\Debug\KipsuAssessment.Tests.dll
+C:\Users\liamj\OneDrive\Desktop\KipsuAssessment\KipsuAssessment\KipsuAssessment.Tests\obj\Debug\KipsuAssessment.Tests.pdb

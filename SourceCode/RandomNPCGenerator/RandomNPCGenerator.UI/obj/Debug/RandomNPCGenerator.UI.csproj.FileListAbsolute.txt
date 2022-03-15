@@ -1,0 +1,9 @@
+C:\Users\liamj\source\repos\PersonalProjects\RandomNPCGenerator\RandomNPCGenerator.UI\bin\Debug\RandomNPCGenerator.UI.dll
+C:\Users\liamj\source\repos\PersonalProjects\RandomNPCGenerator\RandomNPCGenerator.UI\bin\Debug\RandomNPCGenerator.UI.pdb
+C:\Users\liamj\source\repos\PersonalProjects\RandomNPCGenerator\RandomNPCGenerator.UI\obj\Debug\RandomNPCGenerator.UI.csprojAssemblyReference.cache
+C:\Users\liamj\source\repos\PersonalProjects\RandomNPCGenerator\RandomNPCGenerator.UI\obj\Debug\RandomNPCGenerator.UI.csproj.CoreCompileInputs.cache
+C:\Users\liamj\source\repos\PersonalProjects\RandomNPCGenerator\RandomNPCGenerator.UI\obj\Debug\RandomNPCGenerator.UI.dll
+C:\Users\liamj\source\repos\PersonalProjects\RandomNPCGenerator\RandomNPCGenerator.UI\obj\Debug\RandomNPCGenerator.UI.pdb
+C:\Users\liamj\source\repos\PersonalProjects\RandomNPCGenerator\RandomNPCGenerator.UI\bin\Debug\RandomNPCGenerator.Models.dll
+C:\Users\liamj\source\repos\PersonalProjects\RandomNPCGenerator\RandomNPCGenerator.UI\bin\Debug\RandomNPCGenerator.Models.pdb
+C:\Users\liamj\source\repos\PersonalProjects\RandomNPCGenerator\RandomNPCGenerator.UI\obj\Debug\RandomNPCGenerator.UI.csproj.CopyComplete

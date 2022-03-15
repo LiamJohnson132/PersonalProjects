@@ -1,0 +1,8 @@
+Id|Name|ShieldBonus|MaxDexBonus|ArmorCheckPenalty|ArcaneSpellFailure
+0|No Shield|0|50|0|0
+1|Buckler|1|50|-1|5
+2|Light Wooden Shield|1|50|-1|5
+3|Light Steel Shield|1|50|-1|5
+4|Heavy Wooden Shield|2|50|-2|15
+5|Heavy Steel Shield|2|50|-2|15
+6|Tower Shield|4|2|-10|50

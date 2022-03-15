@@ -1,0 +1,6 @@
+C:\Users\liamj\source\repos\PersonalProjects\RandomNPCGenerator\RandomNPCGenerator.Models\bin\Debug\RandomNPCGenerator.Models.dll
+C:\Users\liamj\source\repos\PersonalProjects\RandomNPCGenerator\RandomNPCGenerator.Models\bin\Debug\RandomNPCGenerator.Models.pdb
+C:\Users\liamj\source\repos\PersonalProjects\RandomNPCGenerator\RandomNPCGenerator.Models\obj\Debug\RandomNPCGenerator.Models.csprojAssemblyReference.cache
+C:\Users\liamj\source\repos\PersonalProjects\RandomNPCGenerator\RandomNPCGenerator.Models\obj\Debug\RandomNPCGenerator.Models.csproj.CoreCompileInputs.cache
+C:\Users\liamj\source\repos\PersonalProjects\RandomNPCGenerator\RandomNPCGenerator.Models\obj\Debug\RandomNPCGenerator.Models.dll
+C:\Users\liamj\source\repos\PersonalProjects\RandomNPCGenerator\RandomNPCGenerator.Models\obj\Debug\RandomNPCGenerator.Models.pdb

@@ -1,0 +1,9 @@
+C:\Users\liamj\source\repos\PersonalProjects\RandomNPCGenerator\NPCGenerator.Data\bin\Debug\NPCGenerator.Data.dll
+C:\Users\liamj\source\repos\PersonalProjects\RandomNPCGenerator\NPCGenerator.Data\bin\Debug\NPCGenerator.Data.pdb
+C:\Users\liamj\source\repos\PersonalProjects\RandomNPCGenerator\NPCGenerator.Data\bin\Debug\RandomNPCGenerator.Models.dll
+C:\Users\liamj\source\repos\PersonalProjects\RandomNPCGenerator\NPCGenerator.Data\bin\Debug\RandomNPCGenerator.Models.pdb
+C:\Users\liamj\source\repos\PersonalProjects\RandomNPCGenerator\NPCGenerator.Data\obj\Debug\NPCGenerator.Data.csprojAssemblyReference.cache
+C:\Users\liamj\source\repos\PersonalProjects\RandomNPCGenerator\NPCGenerator.Data\obj\Debug\NPCGenerator.Data.csproj.CoreCompileInputs.cache
+C:\Users\liamj\source\repos\PersonalProjects\RandomNPCGenerator\NPCGenerator.Data\obj\Debug\NPCGenerator.Data.csproj.CopyComplete
+C:\Users\liamj\source\repos\PersonalProjects\RandomNPCGenerator\NPCGenerator.Data\obj\Debug\NPCGenerator.Data.dll
+C:\Users\liamj\source\repos\PersonalProjects\RandomNPCGenerator\NPCGenerator.Data\obj\Debug\NPCGenerator.Data.pdb

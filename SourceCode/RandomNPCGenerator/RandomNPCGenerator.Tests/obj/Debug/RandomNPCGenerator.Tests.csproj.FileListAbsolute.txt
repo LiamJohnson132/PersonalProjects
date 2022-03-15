@@ -1,0 +1,17 @@
+C:\Users\liamj\source\repos\PersonalProjects\RandomNPCGenerator\RandomNPCGenerator.Tests\bin\Debug\RandomNPCGenerator.Tests.dll
+C:\Users\liamj\source\repos\PersonalProjects\RandomNPCGenerator\RandomNPCGenerator.Tests\bin\Debug\RandomNPCGenerator.Tests.pdb
+C:\Users\liamj\source\repos\PersonalProjects\RandomNPCGenerator\RandomNPCGenerator.Tests\bin\Debug\NPCGenerator.Data.dll
+C:\Users\liamj\source\repos\PersonalProjects\RandomNPCGenerator\RandomNPCGenerator.Tests\bin\Debug\nunit.framework.dll
+C:\Users\liamj\source\repos\PersonalProjects\RandomNPCGenerator\RandomNPCGenerator.Tests\bin\Debug\RandomNPCGenerator.Controller.dll
+C:\Users\liamj\source\repos\PersonalProjects\RandomNPCGenerator\RandomNPCGenerator.Tests\bin\Debug\RandomNPCGenerator.Models.dll
+C:\Users\liamj\source\repos\PersonalProjects\RandomNPCGenerator\RandomNPCGenerator.Tests\bin\Debug\NPCGenerator.Data.pdb
+C:\Users\liamj\source\repos\PersonalProjects\RandomNPCGenerator\RandomNPCGenerator.Tests\bin\Debug\RandomNPCGenerator.Controller.pdb
+C:\Users\liamj\source\repos\PersonalProjects\RandomNPCGenerator\RandomNPCGenerator.Tests\bin\Debug\RandomNPCGenerator.Models.pdb
+C:\Users\liamj\source\repos\PersonalProjects\RandomNPCGenerator\RandomNPCGenerator.Tests\bin\Debug\nunit.framework.xml
+C:\Users\liamj\source\repos\PersonalProjects\RandomNPCGenerator\RandomNPCGenerator.Tests\obj\Debug\RandomNPCGenerator.Tests.csprojAssemblyReference.cache
+C:\Users\liamj\source\repos\PersonalProjects\RandomNPCGenerator\RandomNPCGenerator.Tests\obj\Debug\RandomNPCGenerator.Tests.csproj.CoreCompileInputs.cache
+C:\Users\liamj\source\repos\PersonalProjects\RandomNPCGenerator\RandomNPCGenerator.Tests\obj\Debug\RandomNPCGenerator.Tests.csproj.CopyComplete
+C:\Users\liamj\source\repos\PersonalProjects\RandomNPCGenerator\RandomNPCGenerator.Tests\obj\Debug\RandomNPCGenerator.Tests.dll
+C:\Users\liamj\source\repos\PersonalProjects\RandomNPCGenerator\RandomNPCGenerator.Tests\obj\Debug\RandomNPCGenerator.Tests.pdb
+C:\Users\liamj\source\repos\PersonalProjects\RandomNPCGenerator\RandomNPCGenerator.Tests\bin\Debug\RandomNPCGenerator.UI.dll
+C:\Users\liamj\source\repos\PersonalProjects\RandomNPCGenerator\RandomNPCGenerator.Tests\bin\Debug\RandomNPCGenerator.UI.pdb

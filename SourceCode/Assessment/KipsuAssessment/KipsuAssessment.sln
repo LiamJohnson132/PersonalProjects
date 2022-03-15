@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KipsuAssessment.UI", "KipsuAssessment.UI\KipsuAssessment.UI.csproj", "{4E50912D-E61F-47F9-8626-5675C07554E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KipsuAssessment.Models", "KipsuAssessment.Models\KipsuAssessment.Models.csproj", "{AF787D81-10A6-4B55-9B48-3A2EFF9B330F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KipsuAssessment.Controller", "KipsuAssessment.Controller\KipsuAssessment.Controller.csproj", "{0FCFB19E-3CCC-41D8-B877-A3DE3AB54F17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KipsuAssessment.Tests", "KipsuAssessment.Tests\KipsuAssessment.Tests.csproj", "{E571259F-A431-4105-82B2-96B0DACA2B5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KipsuAssessment", "KipsuAssessment\KipsuAssessment.csproj", "{394BE3E6-90C2-4052-B777-81A3E19E98B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KipsuAssessment.Data", "KipsuAssessment.Data\KipsuAssessment.Data.csproj", "{214F55E2-5BD6-4D76-99E3-6F3F84C2E4E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E50912D-E61F-47F9-8626-5675C07554E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E50912D-E61F-47F9-8626-5675C07554E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E50912D-E61F-47F9-8626-5675C07554E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E50912D-E61F-47F9-8626-5675C07554E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF787D81-10A6-4B55-9B48-3A2EFF9B330F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF787D81-10A6-4B55-9B48-3A2EFF9B330F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF787D81-10A6-4B55-9B48-3A2EFF9B330F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF787D81-10A6-4B55-9B48-3A2EFF9B330F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FCFB19E-3CCC-41D8-B877-A3DE3AB54F17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FCFB19E-3CCC-41D8-B877-A3DE3AB54F17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FCFB19E-3CCC-41D8-B877-A3DE3AB54F17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FCFB19E-3CCC-41D8-B877-A3DE3AB54F17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E571259F-A431-4105-82B2-96B0DACA2B5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E571259F-A431-4105-82B2-96B0DACA2B5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E571259F-A431-4105-82B2-96B0DACA2B5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E571259F-A431-4105-82B2-96B0DACA2B5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{394BE3E6-90C2-4052-B777-81A3E19E98B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{394BE3E6-90C2-4052-B777-81A3E19E98B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{394BE3E6-90C2-4052-B777-81A3E19E98B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{394BE3E6-90C2-4052-B777-81A3E19E98B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{214F55E2-5BD6-4D76-99E3-6F3F84C2E4E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{214F55E2-5BD6-4D76-99E3-6F3F84C2E4E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{214F55E2-5BD6-4D76-99E3-6F3F84C2E4E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{214F55E2-5BD6-4D76-99E3-6F3F84C2E4E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E0D0F50-BD9A-4C76-AEF8-B2226DB9F8D1}
+	EndGlobalSection
+EndGlobal

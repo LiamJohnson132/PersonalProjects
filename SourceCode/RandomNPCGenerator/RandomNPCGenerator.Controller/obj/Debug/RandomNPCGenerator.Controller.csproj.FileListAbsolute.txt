@@ -1,0 +1,13 @@
+C:\Users\liamj\source\repos\PersonalProjects\RandomNPCGenerator\RandomNPCGenerator.Controller\bin\Debug\RandomNPCGenerator.Controller.dll
+C:\Users\liamj\source\repos\PersonalProjects\RandomNPCGenerator\RandomNPCGenerator.Controller\bin\Debug\RandomNPCGenerator.Controller.pdb
+C:\Users\liamj\source\repos\PersonalProjects\RandomNPCGenerator\RandomNPCGenerator.Controller\obj\Debug\RandomNPCGenerator.Controller.csprojAssemblyReference.cache
+C:\Users\liamj\source\repos\PersonalProjects\RandomNPCGenerator\RandomNPCGenerator.Controller\obj\Debug\RandomNPCGenerator.Controller.csproj.CoreCompileInputs.cache
+C:\Users\liamj\source\repos\PersonalProjects\RandomNPCGenerator\RandomNPCGenerator.Controller\obj\Debug\RandomNPCGenerator.Controller.dll
+C:\Users\liamj\source\repos\PersonalProjects\RandomNPCGenerator\RandomNPCGenerator.Controller\obj\Debug\RandomNPCGenerator.Controller.pdb
+C:\Users\liamj\source\repos\PersonalProjects\RandomNPCGenerator\RandomNPCGenerator.Controller\bin\Debug\NPCGenerator.Data.dll
+C:\Users\liamj\source\repos\PersonalProjects\RandomNPCGenerator\RandomNPCGenerator.Controller\bin\Debug\RandomNPCGenerator.Models.dll
+C:\Users\liamj\source\repos\PersonalProjects\RandomNPCGenerator\RandomNPCGenerator.Controller\bin\Debug\NPCGenerator.Data.pdb
+C:\Users\liamj\source\repos\PersonalProjects\RandomNPCGenerator\RandomNPCGenerator.Controller\bin\Debug\RandomNPCGenerator.Models.pdb
+C:\Users\liamj\source\repos\PersonalProjects\RandomNPCGenerator\RandomNPCGenerator.Controller\obj\Debug\RandomNPCGenerator.Controller.csproj.CopyComplete
+C:\Users\liamj\source\repos\PersonalProjects\RandomNPCGenerator\RandomNPCGenerator.Controller\bin\Debug\RandomNPCGenerator.UI.dll
+C:\Users\liamj\source\repos\PersonalProjects\RandomNPCGenerator\RandomNPCGenerator.Controller\bin\Debug\RandomNPCGenerator.UI.pdb

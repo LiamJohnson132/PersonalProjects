@@ -1,0 +1,8 @@
+Id|Name|AbilityScoreBonus|AbilityScorePenalty|BaseSpeed|Size
+0|Human|None|None|30|Medium
+1|Dwarf|Con|Cha|20|Medium
+2|Elf|Dex|Con|30|Medium
+3|Gnome|Con|Str|20|Small
+4|Half-Elf|None|None|30|Medium
+5|Half-Orc|Str|Cha|30|Medium
+6|Halfling|Dex|Str|20|Small

@@ -1,0 +1,55 @@
+Id|Name|Rarity|Type|IsDouble|DamageDice,Etc|CriticalThreatRange|CriticalDamageMultiplier|RangeIncrement|DamageType,Etc|IsFinesse|IsThrown
+0|Unarmed|Simple|Unarmed|0|3|1|2|0|B|1|0
+1|Gauntlet|Simple|Unarmed|0|3|1|2|0|B|1|0
+2|Dagger|Simple|Light|0|4|2|2|10|P,S|1|1
+3|Punching Dagger|Simple|Light|0|4|1|3|0|P|1|0
+4|Spiked Gauntlet|Simple|Light|0|4|1|2|0|P|1|0
+5|Light Mace|Simple|Light|0|6|1|2|0|B|1|0
+6|Sickle|Simple|Light|0|6|1|2|0|S|1|0
+7|Club|Simple|OneHanded|0|6|1|2|10|B|0|0
+8|Heavy Mace|Simple|OneHanded|0|8|1|2|0|B|0|0
+9|Morningstar|Simple|OneHanded|0|8|1|2|0|B,P|0|0
+10|Shortspear|Simple|OneHanded|0|6|1|2|20|P|0|1
+11|Longspear|Simple|TwoHanded|0|8|1|3|0|P|0|0
+12|Quarterstaff|Simple|TwoHanded|1|6,6|1|2|0|B|0|0
+13|Spear|Simple|TwoHanded|0|8|1|3|20|P|0|1
+14|Heavy Crossbow|Simple|Ranged|0|10|2|2|120|P|1|0
+15|Light Crossbow|Simple|Ranged|0|8|2|2|80|P|1|0
+16|Dart|Simple|Ranged|0|4|1|2|20|P|1|1
+17|Javelin|Simple|Ranged|0|6|1|2|30|P|1|1
+18|Sling|Simple|Ranged|0|4|1|2|50|B|1|1
+19|Throwing Axe|Martial|Light|0|6|1|2|10|S|1|1
+20|Light Hammer|Martial|Light|0|4|1|2|20|B|1|1
+21|Handaxe|Martial|Light|0|6|1|3|0|S|1|0
+22|Kukri|Martial|Light|0|4|3|2|0|S|1|0
+23|Light Pick|Martial|Light|0|4|1|4|0|P|1|0
+24|Sap|Martial|Light|0|6|1|2|0|B|1|0
+25|Light Shield|Martial|Light|0|3|1|2|0|B|1|0
+26|Spiked Armor|Martial|Light|0|6|1|2|0|P|1|0
+27|Spiked Light Shield|Martial|Light|0|4|1|2|0|P|1|0
+28|Short Sword|Martial|Light|0|6|2|2|0|P|1|0
+29|Battleaxe|Martial|OneHanded|0|8|1|3|0|S|0|0
+30|Flail|Martial|OneHanded|0|8|1|2|0|B|0|0
+31|Longsword|Martial|OneHanded|0|8|2|2|0|S|0|0
+32|Heavy Pick|Martial|OneHanded|0|6|1|4|0|P|0|0
+33|Rapier|Martial|OneHanded|0|6|3|2|0|P|1|0
+34|Scimitar|Martial|OneHanded|0|6|3|2|0|S|0|0
+35|Heavy Shield|Martial|OneHanded|0|4|1|2|0|B|0|0
+36|Spiked Heavy Shield|Martial|OneHanded|0|6|1|2|0|P|0|0
+37|Trident|Martial|OneHanded|0|8|1|2|10|P|0|1
+38|Warhammer|Martial|OneHanded|0|8|1|3|0|B|0|0
+39|Falchion|Martial|TwoHanded|0|4,4|3|2|0|S|0|0
+40|Glaive|Martial|TwoHanded|0|10|1|3|0|S|0|0
+41|Greataxe|Martial|TwoHanded|0|12|1|3|0|S|0|0
+42|Greatclub|Martial|TwoHanded|0|10|1|2|0|B|0|0
+43|Heavy Flail|Martial|TwoHanded|0|10|2|2|0|B|0|0
+44|Greatsword|Martial|TwoHanded|0|6,6|2|2|0|S|0|0
+45|Guisarme|Martial|TwoHanded|0|4,4|1|3|0|S|0|0
+46|Halberd|Martial|TwoHanded|0|10|1|3|0|P,S|0|0
+47|Lance|Martial|TwoHanded|0|8|1|3|0|P|0|0
+48|Ranseur|Martial|TwoHanded|0|4,4|1|3|0|P|0|0
+49|Scythe|Martial|TwoHanded|0|4,4|1|4|0|P,S|0|0
+50|Longbow|Martial|Ranged|0|8|1|3|100|P|1|0
+51|Composite Longbow|Martial|Ranged|0|8|1|3|110|P|1|1
+52|Shortbow|Martial|Ranged|0|6|1|3|60|P|1|0
+53|Composite Shortbow|Martial|Ranged|0|6|1|3|70|P|1|1

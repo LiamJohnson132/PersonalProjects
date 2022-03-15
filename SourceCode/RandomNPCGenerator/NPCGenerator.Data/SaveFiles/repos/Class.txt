@@ -1,0 +1,6 @@
+Id|Name|HitDie|BAB|FortSave|RefSave|WillSave|ArmorProficiencies|ShieldProficiencies|WeaponProficiencies
+0|Commoner|4|Poor|Average|Average|Average|0|0|18
+1|Warrior|8|Good|Good|Average|Average|12|6|53
+2|Expert|6|Average|Average|Average|Good|4|0|18
+3|Aristocrat|8|Average|Average|Average|Good|12|6|53
+4|Adept|6|Poor|Average|Average|Good|0|0|18
