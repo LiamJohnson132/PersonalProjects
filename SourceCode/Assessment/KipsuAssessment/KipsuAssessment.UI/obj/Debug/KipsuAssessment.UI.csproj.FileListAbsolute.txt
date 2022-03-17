@@ -1,9 +1,0 @@
-C:\Users\liamj\OneDrive\Desktop\KipsuAssessment - Remake\KipsuAssessment\KipsuAssessment.UI\bin\Debug\KipsuAssessment.UI.dll
-C:\Users\liamj\OneDrive\Desktop\KipsuAssessment - Remake\KipsuAssessment\KipsuAssessment.UI\bin\Debug\KipsuAssessment.UI.pdb
-C:\Users\liamj\OneDrive\Desktop\KipsuAssessment - Remake\KipsuAssessment\KipsuAssessment.UI\obj\Debug\KipsuAssessment.UI.csproj.AssemblyReference.cache
-C:\Users\liamj\OneDrive\Desktop\KipsuAssessment - Remake\KipsuAssessment\KipsuAssessment.UI\obj\Debug\KipsuAssessment.UI.csproj.CoreCompileInputs.cache
-C:\Users\liamj\OneDrive\Desktop\KipsuAssessment - Remake\KipsuAssessment\KipsuAssessment.UI\obj\Debug\KipsuAssessment.UI.dll
-C:\Users\liamj\OneDrive\Desktop\KipsuAssessment - Remake\KipsuAssessment\KipsuAssessment.UI\obj\Debug\KipsuAssessment.UI.pdb
-C:\Users\liamj\OneDrive\Desktop\KipsuAssessment - Remake\KipsuAssessment\KipsuAssessment.UI\bin\Debug\KipsuAssessment.Models.dll
-C:\Users\liamj\OneDrive\Desktop\KipsuAssessment - Remake\KipsuAssessment\KipsuAssessment.UI\bin\Debug\KipsuAssessment.Models.pdb
-C:\Users\liamj\OneDrive\Desktop\KipsuAssessment - Remake\KipsuAssessment\KipsuAssessment.UI\obj\Debug\KipsuAssessment.UI.csproj.CopyComplete

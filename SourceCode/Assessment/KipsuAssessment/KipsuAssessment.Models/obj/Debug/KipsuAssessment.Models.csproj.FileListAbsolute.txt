@@ -1,6 +1,0 @@
-C:\Users\liamj\OneDrive\Desktop\KipsuAssessment - Remake\KipsuAssessment\KipsuAssessment.Models\bin\Debug\KipsuAssessment.Models.dll
-C:\Users\liamj\OneDrive\Desktop\KipsuAssessment - Remake\KipsuAssessment\KipsuAssessment.Models\bin\Debug\KipsuAssessment.Models.pdb
-C:\Users\liamj\OneDrive\Desktop\KipsuAssessment - Remake\KipsuAssessment\KipsuAssessment.Models\obj\Debug\KipsuAssessment.Models.csproj.AssemblyReference.cache
-C:\Users\liamj\OneDrive\Desktop\KipsuAssessment - Remake\KipsuAssessment\KipsuAssessment.Models\obj\Debug\KipsuAssessment.Models.csproj.CoreCompileInputs.cache
-C:\Users\liamj\OneDrive\Desktop\KipsuAssessment - Remake\KipsuAssessment\KipsuAssessment.Models\obj\Debug\KipsuAssessment.Models.dll
-C:\Users\liamj\OneDrive\Desktop\KipsuAssessment - Remake\KipsuAssessment\KipsuAssessment.Models\obj\Debug\KipsuAssessment.Models.pdb
